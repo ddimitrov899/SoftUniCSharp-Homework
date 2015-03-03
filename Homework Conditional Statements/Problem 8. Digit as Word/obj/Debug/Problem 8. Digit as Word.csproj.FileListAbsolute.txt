@@ -1,0 +1,5 @@
+C:\Users\Mitko\Desktop\Homework\Homework Conditional Statements\Problem 8. Digit as Word\bin\Debug\Problem_8.Digit_as_Word.exe.config
+C:\Users\Mitko\Desktop\Homework\Homework Conditional Statements\Problem 8. Digit as Word\bin\Debug\Problem_8.Digit_as_Word.exe
+C:\Users\Mitko\Desktop\Homework\Homework Conditional Statements\Problem 8. Digit as Word\bin\Debug\Problem_8.Digit_as_Word.pdb
+C:\Users\Mitko\Desktop\Homework\Homework Conditional Statements\Problem 8. Digit as Word\obj\Debug\Problem_8.Digit_as_Word.exe
+C:\Users\Mitko\Desktop\Homework\Homework Conditional Statements\Problem 8. Digit as Word\obj\Debug\Problem_8.Digit_as_Word.pdb

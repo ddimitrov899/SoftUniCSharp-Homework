@@ -1,0 +1,6 @@
+C:\Users\Mitko\Desktop\Homework\Homework Conditional Statements\Problem 6. The Biggest of Five Numbers\bin\Debug\Problem_6.The_Biggest_of_Five_Numbers.exe.config
+C:\Users\Mitko\Desktop\Homework\Homework Conditional Statements\Problem 6. The Biggest of Five Numbers\bin\Debug\Problem_6.The_Biggest_of_Five_Numbers.exe
+C:\Users\Mitko\Desktop\Homework\Homework Conditional Statements\Problem 6. The Biggest of Five Numbers\bin\Debug\Problem_6.The_Biggest_of_Five_Numbers.pdb
+C:\Users\Mitko\Desktop\Homework\Homework Conditional Statements\Problem 6. The Biggest of Five Numbers\obj\Debug\Problem_6.The_Biggest_of_Five_Numbers.exe
+C:\Users\Mitko\Desktop\Homework\Homework Conditional Statements\Problem 6. The Biggest of Five Numbers\obj\Debug\Problem_6.The_Biggest_of_Five_Numbers.pdb
+C:\Users\Mitko\Desktop\Homework\Homework Conditional Statements\Problem 6. The Biggest of Five Numbers\obj\Debug\Problem 6. The Biggest of Five Numbers.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+C:\Users\Mitko\Desktop\Homework\Homework Conditional Statements\Problem 7. Sort 3 Numbers with Nested Ifs\bin\Debug\Problem_7.Sort_3_Numbers_with_Nested_Ifs.exe.config
+C:\Users\Mitko\Desktop\Homework\Homework Conditional Statements\Problem 7. Sort 3 Numbers with Nested Ifs\bin\Debug\Problem_7.Sort_3_Numbers_with_Nested_Ifs.exe
+C:\Users\Mitko\Desktop\Homework\Homework Conditional Statements\Problem 7. Sort 3 Numbers with Nested Ifs\bin\Debug\Problem_7.Sort_3_Numbers_with_Nested_Ifs.pdb
+C:\Users\Mitko\Desktop\Homework\Homework Conditional Statements\Problem 7. Sort 3 Numbers with Nested Ifs\obj\Debug\Problem_7.Sort_3_Numbers_with_Nested_Ifs.exe
+C:\Users\Mitko\Desktop\Homework\Homework Conditional Statements\Problem 7. Sort 3 Numbers with Nested Ifs\obj\Debug\Problem_7.Sort_3_Numbers_with_Nested_Ifs.pdb
+C:\Users\Mitko\Desktop\Homework\SoftUniC-HomeworkTest.git\Homework Conditional Statements\Problem 7. Sort 3 Numbers with Nested Ifs\bin\Debug\Problem_7.Sort_3_Numbers_with_Nested_Ifs.exe.config
+C:\Users\Mitko\Desktop\Homework\SoftUniC-HomeworkTest.git\Homework Conditional Statements\Problem 7. Sort 3 Numbers with Nested Ifs\obj\Debug\Problem_7.Sort_3_Numbers_with_Nested_Ifs.exe
+C:\Users\Mitko\Desktop\Homework\SoftUniC-HomeworkTest.git\Homework Conditional Statements\Problem 7. Sort 3 Numbers with Nested Ifs\obj\Debug\Problem_7.Sort_3_Numbers_with_Nested_Ifs.pdb
