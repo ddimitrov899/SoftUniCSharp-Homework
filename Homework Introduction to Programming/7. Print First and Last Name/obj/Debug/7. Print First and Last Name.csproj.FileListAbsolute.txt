@@ -1,0 +1,5 @@
+c:\users\димитър\documents\visual studio 2015\Projects\new homwork\7. Print First and Last Name\bin\Debug\_7.Print_First_and_Last_Name.exe.config
+c:\users\димитър\documents\visual studio 2015\Projects\new homwork\7. Print First and Last Name\bin\Debug\_7.Print_First_and_Last_Name.exe
+c:\users\димитър\documents\visual studio 2015\Projects\new homwork\7. Print First and Last Name\bin\Debug\_7.Print_First_and_Last_Name.pdb
+c:\users\димитър\documents\visual studio 2015\Projects\new homwork\7. Print First and Last Name\obj\Debug\_7.Print_First_and_Last_Name.exe
+c:\users\димитър\documents\visual studio 2015\Projects\new homwork\7. Print First and Last Name\obj\Debug\_7.Print_First_and_Last_Name.pdb

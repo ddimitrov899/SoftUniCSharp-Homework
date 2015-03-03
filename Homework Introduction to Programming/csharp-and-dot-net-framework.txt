@@ -1,0 +1,3 @@
+C # is an object-oriented programming language developed by Microsoft , as part of the software platform .NET.
+Microsoft .NET Framework is a platform created by Microsoft , which provides a programming model , class library ( FCL , Framework Class Library ) and execution environment written especially for her program code ( CLR , Common Language Runtime ). It is a key element of the development strategy of Microsoft , aimed most new applications for Windows to be based on the .NET Framework.
+I.e. C# is a programming language and .NET is a library that makes it easier for working with C#.

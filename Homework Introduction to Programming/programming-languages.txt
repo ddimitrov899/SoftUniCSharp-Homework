@@ -1,0 +1,70 @@
+C# is an object-oriented programming language developed by Microsoft , as part of the software platform .NET .
+Aspiration into the design of C # language was to create a simple, modern, object-oriented language general. 
+Basis for C # are C ++ , Java and somewhat languages such as Delphi , VB.NET and C .
+
+For C#:
+The first version of C # was developed by Microsoft in the period 1999 - 2002, and was released 
+officially in use in 2002, as part of the .NET platform, which aims to significantly facilitate the 
+development of software for Windows environments by a qualitatively new approach to programming,
+based on the concepts of "virtual machine" and "managed code".At that time, the language and the platform Java,
+built on the same concepts are enjoying huge success in all areas of software development and the 
+development of C # and .NET is a natural response to Microsoft on the success of Java technology. 
+One of the biggest advantages of the .NET Framework has built-in automatic memory management. 
+It prevents developers from complicated task themselves to allocate memory for objects and to 
+seek the right moment for its release. This seriously increases the productivity of developers and increases 
+the quality of the programs written in C #.
+
+For C++:
+
+C++  is a general-purpose programming language of high level. It is an object-oriented language with static types. 
+Since the 1990s, C ++ is one of the most popular commercial programming languages.
+Bjarne Stroustrup developed C ++ in 1983 at Bell Labs as an extension of the C language - the language is 
+based on C, but it added a number of additional features and several modifications. The main difference 
+between the C and C ++ is that C ++ provides built-in language support for object-oriented programming. 
+In C ++, added classes, multiple inheritance, virtual functions, overloading, templates (templates), 
+exception handling (exceptions) and integrated operators to work with dynamic memory.
+Most programs in C can directly or with only minor modifications to be compiled with a compiler 
+for the language C ++. Due to the parallel development with Turbo Pascal and Object Pascal 
+in the direction of object-oriented, C ++ has features in common with them, but there are many differences. 
+Because replication of many concepts from C ++, the language Java has much in common with C ++.
+
+for C:
+
+With is a programming language developed by Dennis Ritchie  in the period 1969-1973 The paper language is 
+closely related to the operating system UNIX , whose core subsequently is rewritten in the language C.
+C is a programming language from the average general. Due to the low level of abstraction, 
+developers have more control over the hardware and the programs written in it generally 
+run faster than those written in high level languages. Therefore C is suitable 
+for creating both operating systems and the applications .
+Portability of code combined with its efficiency makes the language quite popular.
+It gets extremely large range, for him there compilers for multiple operating systems 
+and computing platforms. Many of today's operating systems are mainly written in C. 
+The popular languages ??C ++ and Objective-C are extensions of the language C.
+
+for Pascal:
+
+Pascal is a structured programming language , created in 1970  , the Prof. Niklaus Wirth from the 
+Swiss National Institute of Technology. Its main purpose was to serve as language training, 
+i.e. be easy to learn and to teach good programming style. 
+Language, named in honor of the French mathematician Blaise Pascal , 
+is used by a wide range of programmers , as mining popularity with students and teachers because of its simplicity.
+At the end of the 80s was developed object-oriented version called Object Pascal by the company Borland, 
+used later in the development environment Delphi , which is also a product of the same company. 
+Now entering the free realization Free Pascal and visual environment Lazarus , 
+which are very platform both to hardware Intel_x86 , AMD64 , ARM , and the Axis - Windows , Mac OS , Linux , Android .
+Pascal completely wrongly considered by some programmers in C or C ++ language-toy as put "limits" on what can be achieved ,
+and the safety, which reduces performance. With safety when working with strings and arrays
+in Pascal avoids typical programs with errors using unallocated memory or foreign. 
+Due to its closest conversion to CPU instructions pascals strings are processed much more quickly. 
+When you need fast response, these checks in Pascal can be switched off by command keys of popular compilers .
+
+for Java:
+
+Java or Java is an object-oriented programming language . The code written in Java is not compiled to machine code for a particular processor, and a specific language code, called byte code. Therefore, the implementation of a program written in Java is required so. Called. Virtual machine (in English : Java Virtual Machine ).
+Java is a high-level language that looks like C # and C ++ and partly in languages ??such as Delphi, VB.NET and C. The syntax of Java is similar to that of C ++ and C # and the passage of these languages to Java is easy. Java programs are object-oriented. They represent a set of definitions of classes that incorporating methods and methods is located in program logic.
+Java-developed extremely diverse software: office applications, web applications, desktop applications, mobile applications, games and much more.
+
+Àll object-oriented languages are used for the development of large projects whether it be games and other programs.
+
+Differ from C # in that it is easy to understand in an easy-to-learn
+or two words, a basic level for novice programmer.

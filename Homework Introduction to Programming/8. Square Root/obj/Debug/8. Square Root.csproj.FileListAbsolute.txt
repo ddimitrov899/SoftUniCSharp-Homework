@@ -1,0 +1,5 @@
+c:\users\димитър\documents\visual studio 2015\Projects\new homwork\8. Square Root\bin\Debug\_8.Square_Root.exe.config
+c:\users\димитър\documents\visual studio 2015\Projects\new homwork\8. Square Root\bin\Debug\_8.Square_Root.exe
+c:\users\димитър\documents\visual studio 2015\Projects\new homwork\8. Square Root\bin\Debug\_8.Square_Root.pdb
+c:\users\димитър\documents\visual studio 2015\Projects\new homwork\8. Square Root\obj\Debug\_8.Square_Root.exe
+c:\users\димитър\documents\visual studio 2015\Projects\new homwork\8. Square Root\obj\Debug\_8.Square_Root.pdb

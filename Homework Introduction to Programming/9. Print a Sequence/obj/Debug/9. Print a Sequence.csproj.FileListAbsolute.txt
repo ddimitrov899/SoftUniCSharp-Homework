@@ -1,0 +1,5 @@
+c:\users\димитър\documents\visual studio 2015\Projects\new homwork\9. Print a Sequence\bin\Debug\_9.Print_a_Sequence.exe.config
+c:\users\димитър\documents\visual studio 2015\Projects\new homwork\9. Print a Sequence\bin\Debug\_9.Print_a_Sequence.exe
+c:\users\димитър\documents\visual studio 2015\Projects\new homwork\9. Print a Sequence\bin\Debug\_9.Print_a_Sequence.pdb
+c:\users\димитър\documents\visual studio 2015\Projects\new homwork\9. Print a Sequence\obj\Debug\_9.Print_a_Sequence.exe
+c:\users\димитър\documents\visual studio 2015\Projects\new homwork\9. Print a Sequence\obj\Debug\_9.Print_a_Sequence.pdb

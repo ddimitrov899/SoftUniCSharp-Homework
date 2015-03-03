@@ -1,0 +1,5 @@
+c:\users\димитър\documents\visual studio 2015\Projects\new homwork\10. Reformat C Sharp Code\bin\Debug\_10.Reformat_C_Sharp_Code.exe.config
+c:\users\димитър\documents\visual studio 2015\Projects\new homwork\10. Reformat C Sharp Code\bin\Debug\_10.Reformat_C_Sharp_Code.exe
+c:\users\димитър\documents\visual studio 2015\Projects\new homwork\10. Reformat C Sharp Code\bin\Debug\_10.Reformat_C_Sharp_Code.pdb
+c:\users\димитър\documents\visual studio 2015\Projects\new homwork\10. Reformat C Sharp Code\obj\Debug\_10.Reformat_C_Sharp_Code.exe
+c:\users\димитър\documents\visual studio 2015\Projects\new homwork\10. Reformat C Sharp Code\obj\Debug\_10.Reformat_C_Sharp_Code.pdb

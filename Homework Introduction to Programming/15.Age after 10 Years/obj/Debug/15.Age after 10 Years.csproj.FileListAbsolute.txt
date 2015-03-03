@@ -1,0 +1,5 @@
+c:\users\димитър\documents\visual studio 2015\Projects\new homwork\15.Age after 10 Years\bin\Debug\15.Age after 10 Years.exe.config
+c:\users\димитър\documents\visual studio 2015\Projects\new homwork\15.Age after 10 Years\bin\Debug\15.Age after 10 Years.exe
+c:\users\димитър\documents\visual studio 2015\Projects\new homwork\15.Age after 10 Years\bin\Debug\15.Age after 10 Years.pdb
+c:\users\димитър\documents\visual studio 2015\Projects\new homwork\15.Age after 10 Years\obj\Debug\15.Age after 10 Years.exe
+c:\users\димитър\documents\visual studio 2015\Projects\new homwork\15.Age after 10 Years\obj\Debug\15.Age after 10 Years.pdb

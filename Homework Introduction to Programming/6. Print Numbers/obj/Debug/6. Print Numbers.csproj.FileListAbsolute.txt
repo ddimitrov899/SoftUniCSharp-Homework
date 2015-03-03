@@ -1,0 +1,5 @@
+c:\users\димитър\documents\visual studio 2015\Projects\new homwork\6. Print Numbers\bin\Debug\_6.Print_Numbers.exe.config
+c:\users\димитър\documents\visual studio 2015\Projects\new homwork\6. Print Numbers\bin\Debug\_6.Print_Numbers.exe
+c:\users\димитър\documents\visual studio 2015\Projects\new homwork\6. Print Numbers\bin\Debug\_6.Print_Numbers.pdb
+c:\users\димитър\documents\visual studio 2015\Projects\new homwork\6. Print Numbers\obj\Debug\_6.Print_Numbers.exe
+c:\users\димитър\documents\visual studio 2015\Projects\new homwork\6. Print Numbers\obj\Debug\_6.Print_Numbers.pdb

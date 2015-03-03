@@ -1,0 +1,5 @@
+c:\users\димитър\documents\visual studio 2015\Projects\new homwork\5. Print Your Name\bin\Debug\_5.Print_Your_Name.exe.config
+c:\users\димитър\documents\visual studio 2015\Projects\new homwork\5. Print Your Name\bin\Debug\_5.Print_Your_Name.exe
+c:\users\димитър\documents\visual studio 2015\Projects\new homwork\5. Print Your Name\bin\Debug\_5.Print_Your_Name.pdb
+c:\users\димитър\documents\visual studio 2015\Projects\new homwork\5. Print Your Name\obj\Debug\_5.Print_Your_Name.exe
+c:\users\димитър\documents\visual studio 2015\Projects\new homwork\5. Print Your Name\obj\Debug\_5.Print_Your_Name.pdb
