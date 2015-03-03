@@ -1,0 +1,5 @@
+C:\Users\Mitko\Desktop\Homework\Homework Conditional Statements\Problem 4. Multiplication Sign\bin\Debug\Problem_4.Multiplication_Sign.exe.config
+C:\Users\Mitko\Desktop\Homework\Homework Conditional Statements\Problem 4. Multiplication Sign\bin\Debug\Problem_4.Multiplication_Sign.exe
+C:\Users\Mitko\Desktop\Homework\Homework Conditional Statements\Problem 4. Multiplication Sign\bin\Debug\Problem_4.Multiplication_Sign.pdb
+C:\Users\Mitko\Desktop\Homework\Homework Conditional Statements\Problem 4. Multiplication Sign\obj\Debug\Problem_4.Multiplication_Sign.exe
+C:\Users\Mitko\Desktop\Homework\Homework Conditional Statements\Problem 4. Multiplication Sign\obj\Debug\Problem_4.Multiplication_Sign.pdb
