@@ -1,0 +1,5 @@
+C:\Users\Mitko\Desktop\Homework\Homework Console Input Output\Problem 4. Number Comparer\bin\Debug\Problem_4.Number_Comparer.exe.config
+C:\Users\Mitko\Desktop\Homework\Homework Console Input Output\Problem 4. Number Comparer\bin\Debug\Problem_4.Number_Comparer.exe
+C:\Users\Mitko\Desktop\Homework\Homework Console Input Output\Problem 4. Number Comparer\bin\Debug\Problem_4.Number_Comparer.pdb
+C:\Users\Mitko\Desktop\Homework\Homework Console Input Output\Problem 4. Number Comparer\obj\Debug\Problem_4.Number_Comparer.exe
+C:\Users\Mitko\Desktop\Homework\Homework Console Input Output\Problem 4. Number Comparer\obj\Debug\Problem_4.Number_Comparer.pdb

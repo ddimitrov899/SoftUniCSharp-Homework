@@ -1,0 +1,6 @@
+C:\Users\Mitko\Desktop\Homework\Homework Console Input Output\Problem 9. Sum of n Numbers\bin\Debug\Problem_9.Sum_of_n_Numbers.exe.config
+C:\Users\Mitko\Desktop\Homework\Homework Console Input Output\Problem 9. Sum of n Numbers\bin\Debug\Problem_9.Sum_of_n_Numbers.exe
+C:\Users\Mitko\Desktop\Homework\Homework Console Input Output\Problem 9. Sum of n Numbers\bin\Debug\Problem_9.Sum_of_n_Numbers.pdb
+C:\Users\Mitko\Desktop\Homework\Homework Console Input Output\Problem 9. Sum of n Numbers\obj\Debug\Problem_9.Sum_of_n_Numbers.exe
+C:\Users\Mitko\Desktop\Homework\Homework Console Input Output\Problem 9. Sum of n Numbers\obj\Debug\Problem_9.Sum_of_n_Numbers.pdb
+C:\Users\Mitko\Desktop\Homework\Homework Console Input Output\Problem 9. Sum of n Numbers\obj\Debug\Problem 9. Sum of n Numbers.csprojResolveAssemblyReference.cache

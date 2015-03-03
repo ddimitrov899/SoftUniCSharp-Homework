@@ -1,0 +1,5 @@
+C:\Users\Mitko\Desktop\Homework\Homework Console Input Output\Problem 11. NumbersInIntervalDividableByGivenNumber\bin\Debug\Problem_11.NumbersInIntervalDividableByGivenNumber.exe.config
+C:\Users\Mitko\Desktop\Homework\Homework Console Input Output\Problem 11. NumbersInIntervalDividableByGivenNumber\bin\Debug\Problem_11.NumbersInIntervalDividableByGivenNumber.exe
+C:\Users\Mitko\Desktop\Homework\Homework Console Input Output\Problem 11. NumbersInIntervalDividableByGivenNumber\bin\Debug\Problem_11.NumbersInIntervalDividableByGivenNumber.pdb
+C:\Users\Mitko\Desktop\Homework\Homework Console Input Output\Problem 11. NumbersInIntervalDividableByGivenNumber\obj\Debug\Problem_11.NumbersInIntervalDividableByGivenNumber.exe
+C:\Users\Mitko\Desktop\Homework\Homework Console Input Output\Problem 11. NumbersInIntervalDividableByGivenNumber\obj\Debug\Problem_11.NumbersInIntervalDividableByGivenNumber.pdb

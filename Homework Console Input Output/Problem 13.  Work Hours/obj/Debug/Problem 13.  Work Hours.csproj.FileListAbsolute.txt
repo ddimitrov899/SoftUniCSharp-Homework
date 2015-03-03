@@ -1,0 +1,6 @@
+C:\Users\Mitko\Desktop\Homework\Homework Console Input Output\Problem 13.  Work Hours\bin\Debug\Problem_13.Work_Hours.exe.config
+C:\Users\Mitko\Desktop\Homework\Homework Console Input Output\Problem 13.  Work Hours\bin\Debug\Problem_13.Work_Hours.exe
+C:\Users\Mitko\Desktop\Homework\Homework Console Input Output\Problem 13.  Work Hours\bin\Debug\Problem_13.Work_Hours.pdb
+C:\Users\Mitko\Desktop\Homework\Homework Console Input Output\Problem 13.  Work Hours\obj\Debug\Problem 13.  Work Hours.csprojResolveAssemblyReference.cache
+C:\Users\Mitko\Desktop\Homework\Homework Console Input Output\Problem 13.  Work Hours\obj\Debug\Problem_13.Work_Hours.exe
+C:\Users\Mitko\Desktop\Homework\Homework Console Input Output\Problem 13.  Work Hours\obj\Debug\Problem_13.Work_Hours.pdb
