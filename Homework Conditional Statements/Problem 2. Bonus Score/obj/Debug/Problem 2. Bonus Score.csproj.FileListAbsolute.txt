@@ -1,0 +1,5 @@
+C:\Users\Mitko\Desktop\Homework\Homework Conditional Statements\Problem 2. Bonus Score\bin\Debug\Problem_2.Bonus_Score.exe.config
+C:\Users\Mitko\Desktop\Homework\Homework Conditional Statements\Problem 2. Bonus Score\bin\Debug\Problem_2.Bonus_Score.exe
+C:\Users\Mitko\Desktop\Homework\Homework Conditional Statements\Problem 2. Bonus Score\bin\Debug\Problem_2.Bonus_Score.pdb
+C:\Users\Mitko\Desktop\Homework\Homework Conditional Statements\Problem 2. Bonus Score\obj\Debug\Problem_2.Bonus_Score.exe
+C:\Users\Mitko\Desktop\Homework\Homework Conditional Statements\Problem 2. Bonus Score\obj\Debug\Problem_2.Bonus_Score.pdb
