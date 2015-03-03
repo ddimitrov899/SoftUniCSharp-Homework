@@ -1,0 +1,6 @@
+C:\Users\Mitko\Desktop\Homework\HomeworkOperatorsExpressionsAndStatements\Problem 20. Bits Up\bin\Debug\Problem_20.Bits_Up.exe.config
+C:\Users\Mitko\Desktop\Homework\HomeworkOperatorsExpressionsAndStatements\Problem 20. Bits Up\bin\Debug\Problem_20.Bits_Up.exe
+C:\Users\Mitko\Desktop\Homework\HomeworkOperatorsExpressionsAndStatements\Problem 20. Bits Up\bin\Debug\Problem_20.Bits_Up.pdb
+C:\Users\Mitko\Desktop\Homework\HomeworkOperatorsExpressionsAndStatements\Problem 20. Bits Up\obj\Debug\Problem 20. Bits Up.csprojResolveAssemblyReference.cache
+C:\Users\Mitko\Desktop\Homework\HomeworkOperatorsExpressionsAndStatements\Problem 20. Bits Up\obj\Debug\Problem_20.Bits_Up.exe
+C:\Users\Mitko\Desktop\Homework\HomeworkOperatorsExpressionsAndStatements\Problem 20. Bits Up\obj\Debug\Problem_20.Bits_Up.pdb

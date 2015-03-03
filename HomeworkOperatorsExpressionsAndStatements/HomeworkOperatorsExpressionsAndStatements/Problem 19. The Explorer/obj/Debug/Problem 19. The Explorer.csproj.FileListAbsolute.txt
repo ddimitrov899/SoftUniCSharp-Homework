@@ -1,0 +1,6 @@
+C:\Users\Mitko\Desktop\Homework\HomeworkOperatorsExpressionsAndStatements\Problem 19. The Explorer\bin\Debug\Problem_19.The_Explorer.exe.config
+C:\Users\Mitko\Desktop\Homework\HomeworkOperatorsExpressionsAndStatements\Problem 19. The Explorer\bin\Debug\Problem_19.The_Explorer.exe
+C:\Users\Mitko\Desktop\Homework\HomeworkOperatorsExpressionsAndStatements\Problem 19. The Explorer\bin\Debug\Problem_19.The_Explorer.pdb
+C:\Users\Mitko\Desktop\Homework\HomeworkOperatorsExpressionsAndStatements\Problem 19. The Explorer\obj\Debug\Problem_19.The_Explorer.exe
+C:\Users\Mitko\Desktop\Homework\HomeworkOperatorsExpressionsAndStatements\Problem 19. The Explorer\obj\Debug\Problem_19.The_Explorer.pdb
+C:\Users\Mitko\Desktop\Homework\HomeworkOperatorsExpressionsAndStatements\Problem 19. The Explorer\obj\Debug\Problem 19. The Explorer.csprojResolveAssemblyReference.cache

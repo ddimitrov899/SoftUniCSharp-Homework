@@ -1,0 +1,6 @@
+C:\Users\Mitko\Desktop\Homework\HomeworkOperatorsExpressionsAndStatements\Problem 18. Odd  Even Sum\bin\Debug\Problem_18.Odd__Even_Sum.exe.config
+C:\Users\Mitko\Desktop\Homework\HomeworkOperatorsExpressionsAndStatements\Problem 18. Odd  Even Sum\bin\Debug\Problem_18.Odd__Even_Sum.exe
+C:\Users\Mitko\Desktop\Homework\HomeworkOperatorsExpressionsAndStatements\Problem 18. Odd  Even Sum\bin\Debug\Problem_18.Odd__Even_Sum.pdb
+C:\Users\Mitko\Desktop\Homework\HomeworkOperatorsExpressionsAndStatements\Problem 18. Odd  Even Sum\obj\Debug\Problem 18. Odd  Even Sum.csprojResolveAssemblyReference.cache
+C:\Users\Mitko\Desktop\Homework\HomeworkOperatorsExpressionsAndStatements\Problem 18. Odd  Even Sum\obj\Debug\Problem_18.Odd__Even_Sum.exe
+C:\Users\Mitko\Desktop\Homework\HomeworkOperatorsExpressionsAndStatements\Problem 18. Odd  Even Sum\obj\Debug\Problem_18.Odd__Even_Sum.pdb

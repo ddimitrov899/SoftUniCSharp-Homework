@@ -1,0 +1,5 @@
+C:\Users\Mitko\Desktop\Homework\HomeworkOperatorsExpressionsAndStatements\Problem 4. Rectangles\bin\Debug\Problem_4.Rectangles.exe.config
+C:\Users\Mitko\Desktop\Homework\HomeworkOperatorsExpressionsAndStatements\Problem 4. Rectangles\bin\Debug\Problem_4.Rectangles.exe
+C:\Users\Mitko\Desktop\Homework\HomeworkOperatorsExpressionsAndStatements\Problem 4. Rectangles\bin\Debug\Problem_4.Rectangles.pdb
+C:\Users\Mitko\Desktop\Homework\HomeworkOperatorsExpressionsAndStatements\Problem 4. Rectangles\obj\Debug\Problem_4.Rectangles.exe
+C:\Users\Mitko\Desktop\Homework\HomeworkOperatorsExpressionsAndStatements\Problem 4. Rectangles\obj\Debug\Problem_4.Rectangles.pdb

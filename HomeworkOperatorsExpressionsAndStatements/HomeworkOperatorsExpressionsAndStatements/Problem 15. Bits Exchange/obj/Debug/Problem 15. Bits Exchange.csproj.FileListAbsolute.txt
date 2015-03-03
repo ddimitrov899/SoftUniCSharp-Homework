@@ -1,0 +1,6 @@
+C:\Users\Mitko\Desktop\Homework\HomeworkOperatorsExpressionsAndStatements\Problem 15. Bits Exchange\bin\Debug\Problem_15.Bits_Exchange.exe.config
+C:\Users\Mitko\Desktop\Homework\HomeworkOperatorsExpressionsAndStatements\Problem 15. Bits Exchange\bin\Debug\Problem_15.Bits_Exchange.exe
+C:\Users\Mitko\Desktop\Homework\HomeworkOperatorsExpressionsAndStatements\Problem 15. Bits Exchange\bin\Debug\Problem_15.Bits_Exchange.pdb
+C:\Users\Mitko\Desktop\Homework\HomeworkOperatorsExpressionsAndStatements\Problem 15. Bits Exchange\obj\Debug\Problem 15. Bits Exchange.csprojResolveAssemblyReference.cache
+C:\Users\Mitko\Desktop\Homework\HomeworkOperatorsExpressionsAndStatements\Problem 15. Bits Exchange\obj\Debug\Problem_15.Bits_Exchange.exe
+C:\Users\Mitko\Desktop\Homework\HomeworkOperatorsExpressionsAndStatements\Problem 15. Bits Exchange\obj\Debug\Problem_15.Bits_Exchange.pdb

@@ -1,0 +1,5 @@
+C:\Users\Mitko\Desktop\Homework\HomeworkOperatorsExpressionsAndStatements\Problem 16. Bit Exchange\bin\Debug\Problem_16.Bit_Exchange.exe.config
+C:\Users\Mitko\Desktop\Homework\HomeworkOperatorsExpressionsAndStatements\Problem 16. Bit Exchange\bin\Debug\Problem_16.Bit_Exchange.exe
+C:\Users\Mitko\Desktop\Homework\HomeworkOperatorsExpressionsAndStatements\Problem 16. Bit Exchange\bin\Debug\Problem_16.Bit_Exchange.pdb
+C:\Users\Mitko\Desktop\Homework\HomeworkOperatorsExpressionsAndStatements\Problem 16. Bit Exchange\obj\Debug\Problem_16.Bit_Exchange.exe
+C:\Users\Mitko\Desktop\Homework\HomeworkOperatorsExpressionsAndStatements\Problem 16. Bit Exchange\obj\Debug\Problem_16.Bit_Exchange.pdb

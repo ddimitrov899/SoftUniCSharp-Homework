@@ -1,0 +1,6 @@
+C:\Users\Mitko\Desktop\Homework\HomeworkOperatorsExpressionsAndStatements\Problem 11. Bitwise Extract Bit Sharp 3\bin\Debug\Problem_11.Bitwise_Extract_Bit_Sharp_3.exe.config
+C:\Users\Mitko\Desktop\Homework\HomeworkOperatorsExpressionsAndStatements\Problem 11. Bitwise Extract Bit Sharp 3\bin\Debug\Problem_11.Bitwise_Extract_Bit_Sharp_3.exe
+C:\Users\Mitko\Desktop\Homework\HomeworkOperatorsExpressionsAndStatements\Problem 11. Bitwise Extract Bit Sharp 3\bin\Debug\Problem_11.Bitwise_Extract_Bit_Sharp_3.pdb
+C:\Users\Mitko\Desktop\Homework\HomeworkOperatorsExpressionsAndStatements\Problem 11. Bitwise Extract Bit Sharp 3\obj\Debug\Problem 11. Bitwise Extract Bit Sharp 3.csprojResolveAssemblyReference.cache
+C:\Users\Mitko\Desktop\Homework\HomeworkOperatorsExpressionsAndStatements\Problem 11. Bitwise Extract Bit Sharp 3\obj\Debug\Problem_11.Bitwise_Extract_Bit_Sharp_3.exe
+C:\Users\Mitko\Desktop\Homework\HomeworkOperatorsExpressionsAndStatements\Problem 11. Bitwise Extract Bit Sharp 3\obj\Debug\Problem_11.Bitwise_Extract_Bit_Sharp_3.pdb
