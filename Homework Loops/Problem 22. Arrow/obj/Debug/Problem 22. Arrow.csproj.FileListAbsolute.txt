@@ -1,0 +1,6 @@
+C:\Users\Mitko\Desktop\Homework\Homework Loops\Problem 22. Arrow\bin\Debug\Problem_22.Arrow.exe.config
+C:\Users\Mitko\Desktop\Homework\Homework Loops\Problem 22. Arrow\bin\Debug\Problem_22.Arrow.exe
+C:\Users\Mitko\Desktop\Homework\Homework Loops\Problem 22. Arrow\bin\Debug\Problem_22.Arrow.pdb
+C:\Users\Mitko\Desktop\Homework\Homework Loops\Problem 22. Arrow\obj\Debug\Problem_22.Arrow.exe
+C:\Users\Mitko\Desktop\Homework\Homework Loops\Problem 22. Arrow\obj\Debug\Problem_22.Arrow.pdb
+C:\Users\Mitko\Desktop\Homework\Homework Loops\Problem 22. Arrow\obj\Debug\Problem 22. Arrow.csprojResolveAssemblyReference.cache

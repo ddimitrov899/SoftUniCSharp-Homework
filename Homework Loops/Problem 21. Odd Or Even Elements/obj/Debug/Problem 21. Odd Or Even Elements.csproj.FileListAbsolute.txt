@@ -1,0 +1,6 @@
+C:\Users\Mitko\Desktop\Homework\Homework Loops\Problem 21. Odd Or Even Elements\bin\Debug\Problem_21.Odd_Or_Even_Elements.exe.config
+C:\Users\Mitko\Desktop\Homework\Homework Loops\Problem 21. Odd Or Even Elements\bin\Debug\Problem_21.Odd_Or_Even_Elements.exe
+C:\Users\Mitko\Desktop\Homework\Homework Loops\Problem 21. Odd Or Even Elements\bin\Debug\Problem_21.Odd_Or_Even_Elements.pdb
+C:\Users\Mitko\Desktop\Homework\Homework Loops\Problem 21. Odd Or Even Elements\obj\Debug\Problem 21. Odd Or Even Elements.csprojResolveAssemblyReference.cache
+C:\Users\Mitko\Desktop\Homework\Homework Loops\Problem 21. Odd Or Even Elements\obj\Debug\Problem_21.Odd_Or_Even_Elements.exe
+C:\Users\Mitko\Desktop\Homework\Homework Loops\Problem 21. Odd Or Even Elements\obj\Debug\Problem_21.Odd_Or_Even_Elements.pdb

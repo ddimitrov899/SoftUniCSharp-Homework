@@ -1,0 +1,6 @@
+C:\Users\Mitko\Desktop\Homework\Homework Loops\Problem 18.Trailing Zeroes in N!\bin\Debug\Problem 18.Trailing Zeroes in N!.exe.config
+C:\Users\Mitko\Desktop\Homework\Homework Loops\Problem 18.Trailing Zeroes in N!\bin\Debug\Problem 18.Trailing Zeroes in N!.exe
+C:\Users\Mitko\Desktop\Homework\Homework Loops\Problem 18.Trailing Zeroes in N!\bin\Debug\Problem 18.Trailing Zeroes in N!.pdb
+C:\Users\Mitko\Desktop\Homework\Homework Loops\Problem 18.Trailing Zeroes in N!\obj\Debug\Problem 18.Trailing Zeroes in N!.csprojResolveAssemblyReference.cache
+C:\Users\Mitko\Desktop\Homework\Homework Loops\Problem 18.Trailing Zeroes in N!\obj\Debug\Problem 18.Trailing Zeroes in N!.exe
+C:\Users\Mitko\Desktop\Homework\Homework Loops\Problem 18.Trailing Zeroes in N!\obj\Debug\Problem 18.Trailing Zeroes in N!.pdb

@@ -1,0 +1,6 @@
+C:\Users\Mitko\Desktop\Homework\Homework Loops\Problem 20. Exam Schedule\bin\Debug\Problem_20.Exam_Schedule.exe.config
+C:\Users\Mitko\Desktop\Homework\Homework Loops\Problem 20. Exam Schedule\bin\Debug\Problem_20.Exam_Schedule.exe
+C:\Users\Mitko\Desktop\Homework\Homework Loops\Problem 20. Exam Schedule\bin\Debug\Problem_20.Exam_Schedule.pdb
+C:\Users\Mitko\Desktop\Homework\Homework Loops\Problem 20. Exam Schedule\obj\Debug\Problem 20. Exam Schedule.csprojResolveAssemblyReference.cache
+C:\Users\Mitko\Desktop\Homework\Homework Loops\Problem 20. Exam Schedule\obj\Debug\Problem_20.Exam_Schedule.exe
+C:\Users\Mitko\Desktop\Homework\Homework Loops\Problem 20. Exam Schedule\obj\Debug\Problem_20.Exam_Schedule.pdb

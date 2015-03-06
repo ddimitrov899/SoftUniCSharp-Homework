@@ -1,0 +1,5 @@
+C:\Users\Mitko\Desktop\Homework\Homework Loops\Problem 6. Calculate\bin\Debug\Problem_6.Calculate.exe.config
+C:\Users\Mitko\Desktop\Homework\Homework Loops\Problem 6. Calculate\bin\Debug\Problem_6.Calculate.exe
+C:\Users\Mitko\Desktop\Homework\Homework Loops\Problem 6. Calculate\bin\Debug\Problem_6.Calculate.pdb
+C:\Users\Mitko\Desktop\Homework\Homework Loops\Problem 6. Calculate\obj\Debug\Problem_6.Calculate.exe
+C:\Users\Mitko\Desktop\Homework\Homework Loops\Problem 6. Calculate\obj\Debug\Problem_6.Calculate.pdb
