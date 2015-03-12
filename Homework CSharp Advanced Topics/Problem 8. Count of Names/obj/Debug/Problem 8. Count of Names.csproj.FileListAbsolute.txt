@@ -1,0 +1,6 @@
+C:\Users\Mitko\Desktop\Homework\Homework CSharp Advanced Topics\Problem 8. Count of Names\bin\Debug\Problem_8.Count_of_Names.exe.config
+C:\Users\Mitko\Desktop\Homework\Homework CSharp Advanced Topics\Problem 8. Count of Names\bin\Debug\Problem_8.Count_of_Names.exe
+C:\Users\Mitko\Desktop\Homework\Homework CSharp Advanced Topics\Problem 8. Count of Names\bin\Debug\Problem_8.Count_of_Names.pdb
+C:\Users\Mitko\Desktop\Homework\Homework CSharp Advanced Topics\Problem 8. Count of Names\obj\Debug\Problem 8. Count of Names.csprojResolveAssemblyReference.cache
+C:\Users\Mitko\Desktop\Homework\Homework CSharp Advanced Topics\Problem 8. Count of Names\obj\Debug\Problem_8.Count_of_Names.exe
+C:\Users\Mitko\Desktop\Homework\Homework CSharp Advanced Topics\Problem 8. Count of Names\obj\Debug\Problem_8.Count_of_Names.pdb

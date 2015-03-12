@@ -1,0 +1,6 @@
+C:\Users\Mitko\Desktop\Homework\Homework CSharp Advanced Topics\Problem 14. Student Cables\bin\Debug\Problem_14.Student_Cables.exe.config
+C:\Users\Mitko\Desktop\Homework\Homework CSharp Advanced Topics\Problem 14. Student Cables\bin\Debug\Problem_14.Student_Cables.exe
+C:\Users\Mitko\Desktop\Homework\Homework CSharp Advanced Topics\Problem 14. Student Cables\bin\Debug\Problem_14.Student_Cables.pdb
+C:\Users\Mitko\Desktop\Homework\Homework CSharp Advanced Topics\Problem 14. Student Cables\obj\Debug\Problem 14. Student Cables.csprojResolveAssemblyReference.cache
+C:\Users\Mitko\Desktop\Homework\Homework CSharp Advanced Topics\Problem 14. Student Cables\obj\Debug\Problem_14.Student_Cables.exe
+C:\Users\Mitko\Desktop\Homework\Homework CSharp Advanced Topics\Problem 14. Student Cables\obj\Debug\Problem_14.Student_Cables.pdb

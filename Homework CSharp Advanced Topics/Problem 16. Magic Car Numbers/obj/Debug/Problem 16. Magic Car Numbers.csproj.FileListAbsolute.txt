@@ -1,0 +1,6 @@
+C:\Users\Mitko\Desktop\Homework\Homework CSharp Advanced Topics\Problem 16. Magic Car Numbers\bin\Debug\Problem_16.Magic_Car_Numbers.exe.config
+C:\Users\Mitko\Desktop\Homework\Homework CSharp Advanced Topics\Problem 16. Magic Car Numbers\bin\Debug\Problem_16.Magic_Car_Numbers.exe
+C:\Users\Mitko\Desktop\Homework\Homework CSharp Advanced Topics\Problem 16. Magic Car Numbers\bin\Debug\Problem_16.Magic_Car_Numbers.pdb
+C:\Users\Mitko\Desktop\Homework\Homework CSharp Advanced Topics\Problem 16. Magic Car Numbers\obj\Debug\Problem 16. Magic Car Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Mitko\Desktop\Homework\Homework CSharp Advanced Topics\Problem 16. Magic Car Numbers\obj\Debug\Problem_16.Magic_Car_Numbers.exe
+C:\Users\Mitko\Desktop\Homework\Homework CSharp Advanced Topics\Problem 16. Magic Car Numbers\obj\Debug\Problem_16.Magic_Car_Numbers.pdb

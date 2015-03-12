@@ -1,0 +1,6 @@
+C:\Users\Mitko\Desktop\Homework\Homework CSharp Advanced Topics\Problem 1. Sorting Numbers\bin\Debug\Problem_1.Sorting_Numbers.exe.config
+C:\Users\Mitko\Desktop\Homework\Homework CSharp Advanced Topics\Problem 1. Sorting Numbers\bin\Debug\Problem_1.Sorting_Numbers.exe
+C:\Users\Mitko\Desktop\Homework\Homework CSharp Advanced Topics\Problem 1. Sorting Numbers\bin\Debug\Problem_1.Sorting_Numbers.pdb
+C:\Users\Mitko\Desktop\Homework\Homework CSharp Advanced Topics\Problem 1. Sorting Numbers\obj\Debug\Problem 1. Sorting Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Mitko\Desktop\Homework\Homework CSharp Advanced Topics\Problem 1. Sorting Numbers\obj\Debug\Problem_1.Sorting_Numbers.exe
+C:\Users\Mitko\Desktop\Homework\Homework CSharp Advanced Topics\Problem 1. Sorting Numbers\obj\Debug\Problem_1.Sorting_Numbers.pdb

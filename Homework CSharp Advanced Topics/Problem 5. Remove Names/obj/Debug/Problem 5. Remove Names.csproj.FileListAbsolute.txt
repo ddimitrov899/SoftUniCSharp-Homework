@@ -1,0 +1,6 @@
+C:\Users\Mitko\Desktop\Homework\Homework CSharp Advanced Topics\Problem 5. Remove Names\bin\Debug\Problem_5.Remove_Names.exe.config
+C:\Users\Mitko\Desktop\Homework\Homework CSharp Advanced Topics\Problem 5. Remove Names\bin\Debug\Problem_5.Remove_Names.exe
+C:\Users\Mitko\Desktop\Homework\Homework CSharp Advanced Topics\Problem 5. Remove Names\bin\Debug\Problem_5.Remove_Names.pdb
+C:\Users\Mitko\Desktop\Homework\Homework CSharp Advanced Topics\Problem 5. Remove Names\obj\Debug\Problem 5. Remove Names.csprojResolveAssemblyReference.cache
+C:\Users\Mitko\Desktop\Homework\Homework CSharp Advanced Topics\Problem 5. Remove Names\obj\Debug\Problem_5.Remove_Names.exe
+C:\Users\Mitko\Desktop\Homework\Homework CSharp Advanced Topics\Problem 5. Remove Names\obj\Debug\Problem_5.Remove_Names.pdb

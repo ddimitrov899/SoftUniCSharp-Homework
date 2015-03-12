@@ -1,0 +1,6 @@
+C:\Users\Mitko\Desktop\Homework\Homework CSharp Advanced Topics\Problem 3. Matrix of Palindromes\bin\Debug\Problem_3.Matrix_of_Palindromes.exe.config
+C:\Users\Mitko\Desktop\Homework\Homework CSharp Advanced Topics\Problem 3. Matrix of Palindromes\bin\Debug\Problem_3.Matrix_of_Palindromes.exe
+C:\Users\Mitko\Desktop\Homework\Homework CSharp Advanced Topics\Problem 3. Matrix of Palindromes\bin\Debug\Problem_3.Matrix_of_Palindromes.pdb
+C:\Users\Mitko\Desktop\Homework\Homework CSharp Advanced Topics\Problem 3. Matrix of Palindromes\obj\Debug\Problem_3.Matrix_of_Palindromes.exe
+C:\Users\Mitko\Desktop\Homework\Homework CSharp Advanced Topics\Problem 3. Matrix of Palindromes\obj\Debug\Problem_3.Matrix_of_Palindromes.pdb
+C:\Users\Mitko\Desktop\Homework\Homework CSharp Advanced Topics\Problem 3. Matrix of Palindromes\obj\Debug\Problem 3. Matrix of Palindromes.csprojResolveAssemblyReference.cache

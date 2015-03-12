@@ -1,0 +1,6 @@
+C:\Users\Mitko\Desktop\Homework\Homework CSharp Advanced Topics\Problem 17.Bit Flipper\bin\Debug\Problem 17.Bit Flipper.exe.config
+C:\Users\Mitko\Desktop\Homework\Homework CSharp Advanced Topics\Problem 17.Bit Flipper\bin\Debug\Problem 17.Bit Flipper.exe
+C:\Users\Mitko\Desktop\Homework\Homework CSharp Advanced Topics\Problem 17.Bit Flipper\bin\Debug\Problem 17.Bit Flipper.pdb
+C:\Users\Mitko\Desktop\Homework\Homework CSharp Advanced Topics\Problem 17.Bit Flipper\obj\Debug\Problem 17.Bit Flipper.exe
+C:\Users\Mitko\Desktop\Homework\Homework CSharp Advanced Topics\Problem 17.Bit Flipper\obj\Debug\Problem 17.Bit Flipper.pdb
+C:\Users\Mitko\Desktop\Homework\Homework CSharp Advanced Topics\Problem 17.Bit Flipper\obj\Debug\Problem 17.Bit Flipper.csprojResolveAssemblyReference.cache

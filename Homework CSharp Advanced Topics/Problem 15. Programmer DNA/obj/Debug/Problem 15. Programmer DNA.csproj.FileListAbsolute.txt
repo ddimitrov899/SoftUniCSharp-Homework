@@ -1,0 +1,9 @@
+C:\Users\Mitko\Desktop\Homework\Homework CSharp Advanced Topics\Problem 15. Programmer DNA\bin\Debug\Problem_15.Programmer_DNA.exe.config
+C:\Users\Mitko\Desktop\Homework\Homework CSharp Advanced Topics\Problem 15. Programmer DNA\bin\Debug\Problem_15.Programmer_DNA.exe
+C:\Users\Mitko\Desktop\Homework\Homework CSharp Advanced Topics\Problem 15. Programmer DNA\bin\Debug\Problem_15.Programmer_DNA.pdb
+C:\Users\Mitko\Desktop\Homework\Homework CSharp Advanced Topics\Problem 15. Programmer DNA\obj\Debug\Problem 15. Programmer DNA.csprojResolveAssemblyReference.cache
+C:\Users\Mitko\Desktop\Homework\Homework CSharp Advanced Topics\Problem 15. Programmer DNA\obj\Debug\Problem_15.Programmer_DNA.exe
+C:\Users\Mitko\Desktop\Homework\Homework CSharp Advanced Topics\Problem 15. Programmer DNA\obj\Debug\Problem_15.Programmer_DNA.pdb
+C:\Users\Mitko\Desktop\Homework\SoftUniC-Homework.git\trunk\Homework CSharp Advanced Topics\Problem 15. Programmer DNA\bin\Debug\Problem_15.Programmer_DNA.exe.config
+C:\Users\Mitko\Desktop\Homework\SoftUniC-Homework.git\trunk\Homework CSharp Advanced Topics\Problem 15. Programmer DNA\obj\Debug\Problem_15.Programmer_DNA.exe
+C:\Users\Mitko\Desktop\Homework\SoftUniC-Homework.git\trunk\Homework CSharp Advanced Topics\Problem 15. Programmer DNA\obj\Debug\Problem_15.Programmer_DNA.pdb

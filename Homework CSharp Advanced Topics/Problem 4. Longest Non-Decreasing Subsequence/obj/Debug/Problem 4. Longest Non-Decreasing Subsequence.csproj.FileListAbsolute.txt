@@ -1,0 +1,6 @@
+C:\Users\Mitko\Desktop\Homework\Homework CSharp Advanced Topics\Problem 4. Longest Non-Decreasing Subsequence\bin\Debug\Problem_4.Longest_Non_Decreasing_Subsequence.exe.config
+C:\Users\Mitko\Desktop\Homework\Homework CSharp Advanced Topics\Problem 4. Longest Non-Decreasing Subsequence\bin\Debug\Problem_4.Longest_Non_Decreasing_Subsequence.exe
+C:\Users\Mitko\Desktop\Homework\Homework CSharp Advanced Topics\Problem 4. Longest Non-Decreasing Subsequence\bin\Debug\Problem_4.Longest_Non_Decreasing_Subsequence.pdb
+C:\Users\Mitko\Desktop\Homework\Homework CSharp Advanced Topics\Problem 4. Longest Non-Decreasing Subsequence\obj\Debug\Problem 4. Longest Non-Decreasing Subsequence.csprojResolveAssemblyReference.cache
+C:\Users\Mitko\Desktop\Homework\Homework CSharp Advanced Topics\Problem 4. Longest Non-Decreasing Subsequence\obj\Debug\Problem_4.Longest_Non_Decreasing_Subsequence.exe
+C:\Users\Mitko\Desktop\Homework\Homework CSharp Advanced Topics\Problem 4. Longest Non-Decreasing Subsequence\obj\Debug\Problem_4.Longest_Non_Decreasing_Subsequence.pdb
